@@ -5,6 +5,10 @@ Estudante de Desenvolvimento de Sistemas
 </h3>
 
 <p align="center">
+  <img src="https://media1.giphy.com/media/vOulUCzt8sDJ6YSWwx/giphy.gif" width="700">
+</p>
+
+<p align="center">
 JavaScript | React | Python | Flask | PostgreSQL | C | Java | Streamlit
 </p>
 
