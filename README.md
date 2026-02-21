@@ -5,7 +5,7 @@ Estudante de Desenvolvimento de Sistemas
 </h3>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/vOulUCzt8sDJ6YSWwx/giphy.gif" width="700">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGI0cm9ld2g4Z2ZvY2kxdXZ6aXZ2d3pkN3IxcWhpY2hpZTY2NWN0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iDMeyTaLO11bjJi0TR/giphy.gif" width="700">
 </p>
 
 <p align="center">
