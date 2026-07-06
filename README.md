@@ -34,7 +34,7 @@ JavaScript | React | Python | Flask | PostgreSQL | C | Java | Streamlit
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RogerGuiSilva&theme=radical&hide_border=true)
+
 
 </div>
 
